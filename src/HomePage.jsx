@@ -104,7 +104,7 @@ export default function HomePage() {
 
   return (
     <div className="px-6 py-10 max-w-7xl mx-auto">
-      <h1 className="text-3xl font-bold mb-6 text-center text-white">All Books</h1>
+      <h1 className="text-3xl font-bold mb-6 text-center text-white">Ecoreadloop</h1>
 
       {/* Marquee */}
       <div className="overflow-hidden whitespace-nowrap mb-6 flex justify-center">
