@@ -147,3 +147,11 @@ Browse Categories: Find secondhand books by category.
 Wishlist & My Books: Available for authenticated users.
 
 Eco-Friendly Reading: Contribute to reusing and exchanging secondhand books.
+
+Backend Repository
+
+The backend of Eco Read Loop powers all core functionalities such as authentication, book management, categories, and wishlists.
+You can explore the backend source code and setup guide here:
+
+👉 Eco Read Loop Backend Repository
+https://github.com/VshnviJ07/EcoReadloop-backend
